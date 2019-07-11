@@ -4,14 +4,21 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+<<<<<<< HEAD
     "formik": "^1.5.7",
+=======
+>>>>>>> e2f2c96f59a3f9f69238474bc35c28a2928bdcc4
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
     "react-scripts": "^3.0.1",
+<<<<<<< HEAD
     "styled-components": "^4.3.2",
     "yup": "^0.27.0"
+=======
+    "styled-components": "^4.3.2"
+>>>>>>> e2f2c96f59a3f9f69238474bc35c28a2928bdcc4
   },
   "scripts": {
     "start": "react-scripts start",
